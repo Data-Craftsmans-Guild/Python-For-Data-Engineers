@@ -4,7 +4,7 @@ This repo contains all of the code used in the free Data Craftsman's Guild tutor
 https://youtube.com/playlist?list=PLw_6QGGsDtSurllpQMTbB37H9vPb-MZDb
 
 ## Videos:
-* Import CSV Files into Python
+* [Import CSV Files into Python](https://youtu.be/8eIFUm1c6uM)
 * Import JSON Files into Python
 * Basic Web Scraping in Python
 * Machine Learning Workflow
