@@ -1,0 +1,32 @@
+{
+"meta": {
+	"MetaData": {
+		"Columns": [{
+			"names": "Name"
+			,"missing":"0"
+			,"DataType":"String"
+					},
+					{
+			"names": "Age"
+			,"missing":"0"
+			,"DataType":"Integer"
+					},
+					{
+			"names": "Email"
+			,"missing":"0"
+			,"DataType":"String"
+					}
+					],
+		"Permissions": "Open Source",	
+		"PublicationDate":"2020-01-01",
+		"License": "None",
+		"Author" : "Data Craftsman's Guild",
+		"Dataset": {}
+			}
+	},
+"data":[["James","19","james@gmail.com"]
+				,["Jackson","32","jack@gmail.com"]
+				,["Jamie","39","jamie@gmail.com"]
+				,["Lane","68","lane@gmail.com"]]	
+
+}
