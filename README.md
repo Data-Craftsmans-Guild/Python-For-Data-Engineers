@@ -9,7 +9,7 @@ This repo contains all of the code used in the free Data Craftsman's Guild tutor
 * [Import JSON Files into Python](https://youtu.be/QgkWe_g7Hnw)
 * [Basic Web Scraping in Python](https://youtu.be/twyNogkjBjU)
 * [Machine Learning Workflow](https://youtu.be/-Ke0dyCUJE0)
-* [Manipulating Data in Python (Part 1)] (https://youtu.be/4fLkmmvV2Xs)
+* [Manipulating Data in Python (Part 1)](https://youtu.be/4fLkmmvV2Xs)
 * [Manipulating Data in Python (Part 2)](https://youtu.be/ZndCTP-U7gU)
 
 ## Coming Soon!
