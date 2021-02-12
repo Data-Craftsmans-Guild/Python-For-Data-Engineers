@@ -15,6 +15,10 @@ This repo contains all of the code used in the free Data Craftsman's Guild tutor
 ## Coming Soon!
 * Manipulating Data in Python (Part 3)
 
+## Additional Resources
+
+![](Resources/Workflow.png)
+
 
 
 
