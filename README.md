@@ -21,7 +21,7 @@ This repo contains all of the code used in the free Data Craftsman's Guild tutor
 
 ![](Resources/Workflow.png)
 
-![](Resources/BI Workflow.png)
+![](Resources/BIWorkflow.png)
 
 
 
