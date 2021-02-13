@@ -20,6 +20,7 @@ This repo contains all of the code used in the free Data Craftsman's Guild tutor
 ### What does a Data Engineer Do?
 
 ![](Resources/Workflow.png)
+
 ![](Resources/BI Workflow.png)
 
 
